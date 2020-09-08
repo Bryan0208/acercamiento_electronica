@@ -1,3 +1,5 @@
+//Código de Puente H-L293D
+
 void setup()
 {
   pinMode(8, OUTPUT); // |
